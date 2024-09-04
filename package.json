@@ -1,0 +1,8 @@
+{
+  "name": "convertator-pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:A-ST-RA/convertator-pro.git",
+  "author": "Владислав Бахмацкий <astrax200469@gmail.com>",
+  "license": "MIT"
+}
